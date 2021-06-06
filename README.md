@@ -2,6 +2,10 @@
 
 
 
+<p align="center">
+ <img width="455" height="505" src="https://user-images.githubusercontent.com/82953710/120919192-9c178000-c6b8-11eb-80a4-e71e813fff1a.png">
+</p>
+
 ## About project
 
 Application uses dll library from here: https://github.com/Wicek44/OpenWeatherLibraryJsonProject. Created Open Weather Client from dll library allows to get weather information about city you need. 
